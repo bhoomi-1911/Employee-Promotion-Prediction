@@ -70,3 +70,5 @@ Support Vector Machine (SVM) is the most suitable model because it provides the 
 Conclusion
 
 This study demonstrates that employee promotion prediction is a challenging classification problem due to class imbalance. While ensemble methods like Random Forest achieve high accuracy, SVM provides the most balanced and reliable performance for identifying promoted employees.
+
+Dataset link: https://www.kaggle.com/datasets/rohit8527kmr7518/employee-promtion-prediction
